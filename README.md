@@ -4,7 +4,7 @@
 I built this project to track and analyze how a supply chain is performing. It looks at everything from how much money a product makes to how long it takes to ship. I used SQL Server to handle the data and Power BI to build a dashboard that is easy for a manager or executive to read.
 
 ## **🛠️ Tools I Used**
-- **Microsoft SQL Server:** For storing and cleaning the data.
+- **Microsoft SQL Server (T-SQL):** For storing and cleaning the data.
 - **SQL Server Management Studio (SSMS):** To write and run queries.
 - **Power BI Desktop:** To create the charts and the final dashboard.
 - **GitHub:** To save my work and track changes.

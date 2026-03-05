@@ -33,15 +33,13 @@ After the data was ready in SQL, I connected Power BI to my SQL View.
 - **📊 Charts:** I made bar charts to show which products bring in the most money and which suppliers are the most active.
 - **🔍 Maps and Filters:** I added filters so you can click on a specific location or shipping mode to see how the numbers change.
 - **✨ Clean Layout:** I kept the design simple and professional so it's easy to spot trends quickly.
-
 ---
-
 ## **📈 What the Dashboard Shows**
 - **💰 Sales Leaders:** It's easy to see which products are the top sellers and which ones aren't doing well.
 - **🚚 Supplier Efficiency:** You can see which suppliers have the fastest shipping times and which ones might be slowing things down.
 - **💵 Cost Analysis:** I tracked transportation costs to see where the company is spending the most money on shipping.
 - **💡 Better Decisions:** By looking at the "Revenue vs. Cost" for each product, you can tell which items are the most profitable.
-
+---
 ## **🧠 Technical Skills Used**
 - **🗄️ Relational Databases:** Setting up tables and managing data properly.
 - **💻 SQL Queries:** Using GROUP BY and Aggregates (Sum, Avg) to transform raw data.
